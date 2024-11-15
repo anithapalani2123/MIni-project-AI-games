@@ -1,4 +1,9 @@
-# Mini-project-AI-games
+# EX.NO: 10 Mini Project
+
+### Date: 08/10/2024
+### Register Number:212221240004
+
+
 
 ## Aim: 
 
