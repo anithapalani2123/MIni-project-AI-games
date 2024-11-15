@@ -160,6 +160,13 @@ while running:
 pygame.quit()
 
 ```
+
+### OUTPUT:
+![output](https://github.com/user-attachments/assets/e9ebef62-cf7a-4e1a-afc1-071122164437)
+
+
+
+
 ### RESULT:
 Thus,  to create a side-scrolling shooter game where the player can move, shoot bullets, and eliminate enemies moving across the screen is successfully implemented.
 
